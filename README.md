@@ -1,22 +1,24 @@
 ## CTF
 CTF challenge notes
 
-1. Web
-	-
-	-
+2024
 
-2. RE
-	-
-	-
+	1. Web
+		- Imaginary CTF
+		-
 
-3. PWN
-	-
-	-
+	2. RE
+		- Imaginary CTF
+		-
 
-4. Crypto
-	-
-	-
+	3. PWN
+		- Imaginary CTF
+		-
 
-5. OSINT
-	-
-	-
+	4. Crypto
+		- Imaginary CTF
+		-
+
+	5. OSINT
+		- Imaginary CTF
+		-
